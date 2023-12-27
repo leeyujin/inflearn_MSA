@@ -1,0 +1,21 @@
+[submodule "catalog-service"]
+	path = catalog-service
+	url = https://github.com/leeyujin/inflearn_MSA_catalog-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/leeyujin/inflearn_MSA_user-service.git
+[submodule "springCloudGateway"]
+	path = springCloudGateway
+	url = https://github.com/leeyujin/inflearn_MSA_springCloudGateway.git
+[submodule "second-service"]
+	path = second-service
+	url = https://github.com/leeyujin/inflearn_MSA_second-service.git
+[submodule "first-service"]
+	path = first-service
+	url = https://github.com/leeyujin/inflearn_MSA_first-service.git
+[submodule "zuul-service"]
+	path = zuul-service
+	url = https://github.com/leeyujin/inflearn_MSA_zuul-service.git
+[submodule "serviceDiscovery"]
+	path = serviceDiscovery
+	url = https://github.com/leeyujin/inflearn_MSA_ServiceDiscovery.git
